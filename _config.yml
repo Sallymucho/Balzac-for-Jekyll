@@ -12,9 +12,13 @@ opengraph:
 
 # Links to include in top navigation
 # For external links add external: true
-links:
-  - title: Writings
-    url: /writings 
+ links:
+ -  - title: About
+ -    url: /about
+    - title: Writings
+ -    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+ -    external: true
+ +    url: /writings
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
