@@ -1,8 +1,6 @@
 title:            Lulu's Phylosophy of Dada Blog
 tagline:          A beautiful blog.
 description:      Here is the home of my data work and research.
-canonical: http://jekyll.gtat.me
-
 
 tools:
   standards:      "HTML, SCSS, Jekyll"
@@ -15,11 +13,8 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
   - title: Writings
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
+    url: /writings 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
