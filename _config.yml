@@ -2,6 +2,20 @@ title:            Lulu's Phylosophy of Dada Blog
 tagline:          A beautiful blog.
 description:      Here is the home of my data work and research.
 
+# Owner/author information
+owner:
+  name:           Cole Townsend
+  avatar:         avatar.png
+  bio:            "Aesthete & Athlete"
+  email:          cole@coletownsend.com
+  twitter:        twnsndco
+  github:         coletownsend
+  instagram:      ctrunsthis
+  dribbble:       coletownsend
+  disqus:         balzac
+  location:       "Buffalo, NY"
+  # Plug in your disqus shortname!
+
 tools:
   standards:      "HTML, SCSS, Jekyll"
   software:       "git"
@@ -12,13 +26,15 @@ opengraph:
 
 # Links to include in top navigation
 # For external links add external: true
- links:
- -  - title: About
- -    url: /about
-    - title: Writings
- -    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
- -    external: true
- +    url: /writings
+links:
+  - title: About
+    url: /about
+  - title: Github
+    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
+    external: true
+  - title: Cole Who?
+    url: http://coletownsend.com
+    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
