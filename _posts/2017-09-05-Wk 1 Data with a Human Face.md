@@ -1,7 +1,7 @@
 ---
 layout: post-light-feature
-title: My Test Post
-description: Here I have my first post
+title: Data vs Human
+description: Week One 
 categories: articles
 date: 2017-09-05
 ---
