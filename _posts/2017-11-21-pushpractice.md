@@ -3,8 +3,9 @@ layout: post-light-feature
 title: Push practice
 description: evil youtube
 categories: articles
-date: 2017-09-26
+date: 2017-11-21
 ---
+
 This author plays the “think about the children” argument which I feel is completely valid. I can remember the first time i viewed porn was a complete accident, and incredibly scary. I was 12 looking up bulldogs. I typed in bulldog.com and was greeted with very graphic pornography. The porn industry is already a dangerous, sexist industry, and free pornography allows for many problems, like exposure to young children and lack of compensation for the pornographers/ porn stars. I also find the youtube argument the author creates is directly related to the issue of over exposure to porn. 
 I am the sister or two younger siblings and the 3 & 4 years between us shows there to be a major difference between our relationship to youtube. Bridle wrote “Full-time YouTube celebrity PewDiePie has nearly 12 billion” Views, yet that doesn’t take into account the fact that my siblings and their friends watch PewDiePie together, and I have experienced the show second hand. It’s strange, a lot of the subject material is indeed videos of PewDiePie playing games and narrating his experience. Also, the unwrapping of the kinder eggs replicate this weirdness. Wouldnt children rather play the games? Wouldn't they rather open those eggs themselves?
 Bridle states that “On-demand video is catnip to both parents and to children” and this is true. When you think about the history of how people and children had the means to get entertainment through cartoons, instead of bending to the will of a cable channel, now youtube is a faucet that is constantly spewing colorful, free material. What makes this function so toxic is that children become the subjects of ad campaigns, and I argue that youtube is the most corrosive, and aggressive ad delivers. Children have become the victim of personal data collection. 
